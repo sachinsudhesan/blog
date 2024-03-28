@@ -1,4 +1,4 @@
-We’ll be building medium in the following stack</br>
+We’ll be building medium in the following stack:</br>
 React in the frontend</br>
 Cloudflare workers in the backend</br>
 zod as the validation library, type inference for the frontend types</br>
